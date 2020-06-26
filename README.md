@@ -1,11 +1,12 @@
 # football
 Python Dash Oracle Ploty Adaptation from Tutorial written by "Aly Sivji"
 
-This small project was converted from a nice tutorial written by Aly Sivji. 
-It is not intended to
+Please refer to his posting for a nice overview https://alysivji.github.io/reactive-dashboards-with-dash.html
+
+This was a learning exercise not intended to
    - handle large amounts of data
    - explore best practices in data model
-   - use best practices on advanced Python ... please I am not a python developer.
+   - use best practices on advanced Python ... I am not a python developer.
    
 Major modifications were:
    - Original design reads same dataframe to use in 3 callbacks. Now it reads only one time
