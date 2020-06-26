@@ -1,7 +1,7 @@
 # football
 Python Dash Oracle Ploty Adaptation from Tutorial written by "Aly Sivji"
 
-Please refer to his posting for a nice overview https://alysivji.github.io/reactive-dashboards-with-dash.html
+Please refer to Aly Sivji posting for a nice description of this portal https://alysivji.github.io/reactive-dashboards-with-dash.html
 
 This was a learning exercise not intended to
    - handle large amounts of data
